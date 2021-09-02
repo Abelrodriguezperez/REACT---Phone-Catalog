@@ -6,3 +6,4 @@ The REST API is developed using CORS so you need to install the following extion
 - Moesif Origin & CORS Changer
 - Cross Domain - CORS
 
+The REST API works perfectly but the react app have some problems. It can´t display the list of phones because there are some errors when mapping the data. There is a simpler design of the react app in the react.zip that displays the phone catalog without errors but without any css. The rest of the functions are implemented in the /src/App.js file that appears in the repository.
